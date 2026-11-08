@@ -1,0 +1,9 @@
+{
+  "name": "dsh-novelai",
+  "description": "NovelAI image generation for DeepSeek Harness: nai_image / nai_status tools plus a full studio page.",
+  "version": "1.0.0",
+  "entry": {
+    "name": "dsh-novelai",
+    "inject": ["tools", "webServer", "attachments"]
+  }
+}
