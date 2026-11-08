@@ -1,6 +1,6 @@
 {
   "name": "dsh-novelai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NovelAI 生图接入 DeepSeek Harness：nai_image / nai_status / nai_prompt 三个工具 + 画室页面 + 独立 studio，自带提示词知识库",
   "license": "MIT",
   "type": "module",
